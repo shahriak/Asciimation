@@ -1,0 +1,41 @@
+/*
+	Shahria Kazi CSE 190m Section MK TA: Tyler Rigsby May 9th 2012
+	This page contains style specifications for the
+	ASciimation webpage
+*/
+
+body {
+	background-color: #CCCCFF;
+	font-size: 14pt;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+h1 {
+	margin: 0;
+	font-size: 32pt;
+}
+
+textarea {
+	width: 90%;
+	height: 400px;
+	font-weight: bold;
+	font-size: 12pt;
+	font-family: monospace;
+}
+
+fieldset {
+	display: inline;
+	border: 5px solid black;
+	vertical-align: top;
+}
+
+select, button {
+	font-weight: bold;
+	font-size: 14pt;
+}
+
+#w3c {
+	text-align: right;
+}
